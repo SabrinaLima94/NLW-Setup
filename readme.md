@@ -25,7 +25,7 @@ Será desenvolvido um app para utilizar como <strong>assistente de controle de h
 
 ## A) Revisando conteúdo
 
-<p align="center">HTML</p>
+## HTML
 
 # Sintaxe de uma tag
 
@@ -46,7 +46,7 @@ Como escrevemos atibutos?
 <a href="https://www.google.com.br">Ver site</a> <img src="image.jpg" />
 ```
 
-<p align="center">CSS</p>
+## CSS
 
 # Declaration
 
