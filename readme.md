@@ -38,6 +38,7 @@ Será desenvolvido um app para utilizar como <strong>assistente de controle de h
 ## Aula 2 - Descomplicando o código
 
 </div>
+
 ### A) Revisando conteúdo
 
 ## HTML
