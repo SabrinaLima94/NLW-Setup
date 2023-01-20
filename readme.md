@@ -140,6 +140,7 @@ Caixas possuem determinadas propriedades (Conteúdo, Largura, Altura, Borda, Pre
 ## Aula 3 - O poder do JavaScript
 
 </div>
+
 ### A) Algoritmos e Lógica de Programação
 
 - Algoritmos: Sequência de passos, conjunto de regras;
