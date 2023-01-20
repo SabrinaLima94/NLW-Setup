@@ -2,7 +2,17 @@
 
 <p align="center">Trilha Explorer</p>
 
+<a href="#aula1">Aula 1: Primeiros passos</a><br>
+<a href="#aula2">Aula 2: Descomplicando o código</a><br>
+<a href="#aula3">Aula 3: O poder do JavaScript</a><br>
+
+<div id="aula1" align="center">
+
 ## Aula 1 - Primeiros passos
+
+</div>
+
+<hr>
 
 ### A) Projeto
 
@@ -21,8 +31,13 @@ Será desenvolvido um app para utilizar como <strong>assistente de controle de h
 - Declarations (css): Propriedade e valor;
 - Importância da sintaxe;
 
+<hr>
+
+<div id="aula2" align="center">
+
 ## Aula 2 - Descomplicando o código
 
+</div>
 ### A) Revisando conteúdo
 
 ## HTML
@@ -116,3 +131,51 @@ Caixas possuem determinadas propriedades (Conteúdo, Largura, Altura, Borda, Pre
 ### C) Criando button "Registrar o meu dia"
 
 ### D) Criando seletores (pseudo-selector)
+
+<hr>
+
+<div id="aula3" align="center">
+
+## Aula 3 - O poder do JavaScript
+
+</div>
+### A) Algoritmos e Lógica de Programação
+
+- Algoritmos: Sequência de passos, conjunto de regras;
+- Lógica de programação: Maneira de pensar;
+- Sintaxe: Maneira correta de escrever;
+- Linguagem de programação: Interpretada e executada pelos navegadores;
+- Inteligência da tríade: HTML é a estrutura, CSS é a beleza e JS é a inteligência;
+- Java é diferente de JavaScript, são linguagens diferentes;
+
+### B) Introdução do JavaScript
+
+- É utilizado em aplicativos para web, desktop (ex: Electron) e mobile (ex: React Native);
+- É usado por empresas famosas como instagram, google, netflix, tiktok, etc;
+- É uma linguagem moderna e viva, com uma comunidade e linguagem que cresce cada vez mais;
+
+### C) Instruções e sintaxe
+
+- Toda linguagem é escrita com 2 princípios: Instruções (declarações) e sintaxe;
+- Existem palavras reservadas da linguagem, ou seja, que são responsáveis em dar significado a diversas instruções;
+
+### D) Executando JavaScript
+
+- Podemos executar diretamente no navegador;
+- Ferramenta DevTools: F12 do teclado;
+- Plataformas online: fronteditor.dev, codepen.io, etc;
+
+### E) Variáveis e tipos de dados
+
+- Variáveis são dados que guardamos para usar mais tarde;
+- Tipos de dados (textos, números, booleanos ou mais estruturados);
+
+### F) DOM (Document Object Model)
+
+- É a modelagem dos elementos HTML em Objeto JavaScript;
+
+### G) Responsividade
+
+- Adaptação de uma aplicação para diversos tipos de tela;
+
+<hr>
