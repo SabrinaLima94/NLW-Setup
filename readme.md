@@ -23,7 +23,7 @@
 Será desenvolvido um app para utilizar como <strong>assistente de controle de hábitos</strong>, estudando fundamentos da programação e tecnologias como HTML, CSS, Javascript, Git e Github.
 
 <p align="center">
-    <img alt="projeto habits" src="./assets/capa.jpg" width="50%" />
+    <img alt="projeto habits" src="./assets/capa.jpg" width="60%" />
   </p>
 
 <em>Link do Figma: <a href="https://www.figma.com/community/file/1195327109778210238">Layout do Projeto</a></em>
@@ -131,7 +131,7 @@ Todos os elementos HTML serão considerados uma caixa, assim como uma caixa de p
 
 Caixas possuem determinadas propriedades (Conteúdo, Largura, Altura, Borda, Preenchimento , Espaçamento)´
 
-<p align="center"><img alt="box model" src="./assets/boxmodel.png" width="30%"></p>
+<p align="center"><img alt="box model" src="./assets/boxmodel.png" width="45%"></p>
 
 ### B) Configurando o VSCode
 
@@ -212,6 +212,7 @@ const celular = {
   cor: "preto",
   ligar: function () {},
 }
+
 // usando um objeto
 celular.cor // preto
 celular.ligar() // executa função
@@ -319,7 +320,7 @@ JSON.parse(localStorage.getItem('NLWSetup@habits'))
 - Controle de versão;
 - Histórico do projeto (linha do tempo);
 
-<p align="center"><img alt="linha do tempo git" src="./assets/git.png" width="30%"></p>
+<p align="center"><img alt="linha do tempo git" src="./assets/git.png" width="50%"></p>
 
 - Repository: local que ficará o histórico do seu projeto;
 - Branch: Linha do tempo
