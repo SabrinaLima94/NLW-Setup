@@ -181,3 +181,21 @@ Caixas possuem determinadas propriedades (Conteúdo, Largura, Altura, Borda, Pre
 - Adaptação de uma aplicação para diversos tipos de tela;
 
 <hr>
+<div id="aula4" align="center">
+
+## Aula 4 - Profissionalizando o projeto
+
+</div>
+
+### A) Condicionais
+
+- Uso do if/else para condicionar uma ação desejada;
+
+### B) Função
+
+-Eventos (click, change);
+
+### C) Personalização e ajuste da data no JavaScript
+
+- Personalização para pt-br;
+- Cortar informação da data (slice);
