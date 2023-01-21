@@ -227,6 +227,7 @@ celular.ligar() // executa função
 ```javascript
 // usando uma função
 alert("Fala, Dev!")
+
 // criando uma função
 function alert(text) {
   return text
@@ -243,8 +244,10 @@ a) Document:
 Posso controlar minha página, meu documento HTML, pelo JavaScript, através do objeto document.
 
 ```javascript
+
  // objeto que existe em todo navegador
 .querySelector('a') // seleciona a tag a
+
 .click() // dá a ordem de clicar na tag a
 ```
 
@@ -325,7 +328,7 @@ JSON.parse(localStorage.getItem('NLWSetup@habits'))
 
 **Comandos**
 
-```JSON
+```javascript
 // inicia o git (repositório) no seu projeto
 git init
 
