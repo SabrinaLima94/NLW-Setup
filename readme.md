@@ -22,7 +22,9 @@
 
 Será desenvolvido um app para utilizar como <strong>assistente de controle de hábitos</strong>, estudando fundamentos da programação e tecnologias como HTML, CSS, Javascript, Git e Github.
 
-<p align="center"><img alt="projeto habits" src="./assets/capa.png" width="50%"></p>
+<p align="center">
+    <img alt="projeto habits" src="./assets/capa.jpg" width="50%" />
+  </p>
 
 <em>Link do Figma: <a href="https://www.figma.com/community/file/1195327109778210238">Layout do Projeto</a></em>
 
