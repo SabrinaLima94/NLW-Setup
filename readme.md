@@ -5,6 +5,7 @@
 <a href="#aula1">Aula 1: Primeiros passos</a><br>
 <a href="#aula2">Aula 2: Descomplicando o código</a><br>
 <a href="#aula3">Aula 3: O poder do JavaScript</a><br>
+<a href="#aula4">Aula 4: Profissionalizando o projeto</a><br>
 
 <div id="aula1" align="center">
 
